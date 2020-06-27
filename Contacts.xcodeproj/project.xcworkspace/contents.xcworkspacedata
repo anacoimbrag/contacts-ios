@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Declarative UI.xcodeproj">
+      location = "self:/Users/anacoimbra/Documents/GitHub/Declarative UI/Contacts.xcodeproj">
    </FileRef>
 </Workspace>
