@@ -12,7 +12,7 @@ struct ContentView: View {
     var body: some View {
         NavigationView {
             ContactListView()
-            .navigationBarTitle(Text("Contacts"))
+                .navigationBarTitle(Text("Contacts"))
         }
     }
 }
